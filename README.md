@@ -1,6 +1,4 @@
 # eq-ex -demo
-First problem statement solution
-
 
 This is a Terraform Infrastructure as a code sample to:
  - Create a VPC with all components
